@@ -1,0 +1,22 @@
+﻿
+.bold-label {
+    font-weight: bold;
+}
+
+.form-button {
+    font-weight: bold;
+  
+}
+
+
+/*.custom {
+    transform: scale(2) !important;
+    margin-right: 50px;
+}*/
+
+
+input[type="checkbox"] {
+    transform: scale(2); 
+    margin-right: 10px; 
+    cursor: pointer; 
+}

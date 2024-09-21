@@ -1,0 +1,22 @@
+
+.bold-label[b-duogz2l6r6] {
+    font-weight: bold;
+}
+
+.form-button[b-duogz2l6r6] {
+    font-weight: bold;
+  
+}
+
+
+/*.custom {
+    transform: scale(2) !important;
+    margin-right: 50px;
+}*/
+
+
+input[type="checkbox"][b-duogz2l6r6] {
+    transform: scale(2); 
+    margin-right: 10px; 
+    cursor: pointer; 
+}
