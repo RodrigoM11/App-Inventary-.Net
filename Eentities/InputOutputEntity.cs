@@ -26,16 +26,16 @@ namespace Eentities
         public StorageEntity Storage { get; set; }
 
 
-        //public InputOutputEntity()
-        //{
-        //    InOutId = "default"; 
-        //    InOutDate = DateTime.UtcNow; 
-        //    Quantity = 0; 
-        //    IsInput = true;
-        //    StorageId = "default";
-        //    Storage = new StorageEntity();
-            
-        //}
+        public InputOutputEntity()
+        {
+            InOutId = "default";
+            InOutDate = DateTime.UtcNow;
+            Quantity = 0;
+            IsInput = true;
+            StorageId = "default";
+            Storage = new StorageEntity();
+
+        }
 
     }
 

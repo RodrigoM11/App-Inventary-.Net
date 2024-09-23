@@ -28,19 +28,19 @@ namespace Eentities
         public ICollection<InputOutputEntity> InputOutputs { get; set; }
 
 
-        //public StorageEntity()
-        //{
-        //    StorageId = "default";
-        //    LastUpdate = DateTime.UtcNow;
-        //    PartialQuantity = 0;
-        //    ProductId = "default";
-        //    WhereHouseId = "default";
-        //    Product = new ProductEntity();
-        //    WhereHouse = new WhereHouseEntity();
-        //    InputOutputs = new List<InputOutputEntity>();
+        public StorageEntity()
+        {
+            StorageId = "default";
+            LastUpdate = DateTime.UtcNow;
+            PartialQuantity = 0;
+            ProductId = "default";
+            WhereHouseId = "default";
+            Product = new ProductEntity();
+            WhereHouse = new WhereHouseEntity();
+            InputOutputs = new List<InputOutputEntity>();
 
-        //}
-        
+        }
+
     }
 
 }

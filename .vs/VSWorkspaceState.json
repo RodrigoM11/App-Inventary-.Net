@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Eentities",
     "\\Iinventary"
   ],
-  "SelectedNode": "\\Iinventary\\Dockerfile",
+  "SelectedNode": "\\Eentities\\InputOutputEntity.cs",
   "PreviewInSolutionExplorer": false
 }

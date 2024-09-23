@@ -26,15 +26,15 @@ namespace Eentities
 
         public ICollection<StorageEntity> Storages { get; set; }
 
-        //public ProductEntity()
-        //{
-        //    ProductId = "default";
-        //    ProductName = "default";
-        //    ProductDescription = "default";
-        //    CategoryId = "default";
-            
-        //    Storages = new List<StorageEntity>();
-        //}
+        public ProductEntity()
+        {
+            ProductId = "default";
+            ProductName = "default";
+            ProductDescription = "default";
+            CategoryId = "default";
+
+            Storages = new List<StorageEntity>();
+        }
 
 
 
