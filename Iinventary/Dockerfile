@@ -1,26 +1,29 @@
-# Use the SDK image to build the app
+# Usa la imagen del SDK de .NET para construir
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /source
 
-# Copy project files
-COPY ../Iinventary.sln ./
-COPY ../Bbusiness/Bbusiness.csproj Bbusiness/
-COPY ../DdataAccess/DdataAccess.csproj DdataAccess/
-COPY ../Eentities/Eentities.csproj Eentities/
-COPY ../Iinventary/Iinventary.csproj Iinventary/
+# Copia el archivo de solución
+COPY Iinventary.sln ./
 
-# Restore dependencies
+# Copia los archivos de proyecto de las bibliotecas
+COPY Bbusiness/Bbusiness.csproj Business/
+COPY DdataAccess/DdataAccess.csproj DataAccess/
+COPY Eentities/Eentities.csproj Entities/
+COPY Iinventary/Iinventary.csproj Inventary/
+
+# Restaura las dependencias
 RUN dotnet restore
 
-# Copy the rest of your source code
-COPY .. .
+# Copia el resto del código fuente
+COPY . .
 
-# Build the app
-RUN dotnet publish Iinventary/Iinventary.csproj -c Release -o /app
+# Construye el proyecto
+RUN dotnet build Inventary/Iinventary.csproj -c Release -o /app/build
 
-# Use the runtime image to serve the app
+# Usa la imagen del runtime de .NET para ejecutar la aplicación
 FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS runtime
 WORKDIR /app
-COPY --from=build /app .
+COPY --from=build /app/build .
 
+# Establece el punto de entrada para la aplicación
 ENTRYPOINT ["dotnet", "Iinventary.dll"]
