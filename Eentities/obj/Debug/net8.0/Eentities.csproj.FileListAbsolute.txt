@@ -1,15 +1,3 @@
-C:\Users\rodri\source\repos\Eentities\bin\Debug\net8.0\Eentities.deps.json
-C:\Users\rodri\source\repos\Eentities\bin\Debug\net8.0\Eentities.dll
-C:\Users\rodri\source\repos\Eentities\bin\Debug\net8.0\Eentities.pdb
-C:\Users\rodri\source\repos\Eentities\obj\Debug\net8.0\Eentities.csproj.AssemblyReference.cache
-C:\Users\rodri\source\repos\Eentities\obj\Debug\net8.0\Eentities.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\rodri\source\repos\Eentities\obj\Debug\net8.0\Eentities.AssemblyInfoInputs.cache
-C:\Users\rodri\source\repos\Eentities\obj\Debug\net8.0\Eentities.AssemblyInfo.cs
-C:\Users\rodri\source\repos\Eentities\obj\Debug\net8.0\Eentities.csproj.CoreCompileInputs.cache
-C:\Users\rodri\source\repos\Eentities\obj\Debug\net8.0\Eentities.dll
-C:\Users\rodri\source\repos\Eentities\obj\Debug\net8.0\refint\Eentities.dll
-C:\Users\rodri\source\repos\Eentities\obj\Debug\net8.0\Eentities.pdb
-C:\Users\rodri\source\repos\Eentities\obj\Debug\net8.0\ref\Eentities.dll
 C:\Users\rodri\onedrive\escritorio\Iinventary\Eentities\bin\Debug\net8.0\Eentities.deps.json
 C:\Users\rodri\onedrive\escritorio\Iinventary\Eentities\bin\Debug\net8.0\Eentities.dll
 C:\Users\rodri\onedrive\escritorio\Iinventary\Eentities\bin\Debug\net8.0\Eentities.pdb

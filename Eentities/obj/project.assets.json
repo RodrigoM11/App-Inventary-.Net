@@ -585,11 +585,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Eentities\\Eentities.csproj",
+      "projectUniqueName": "C:\\Users\\rodri\\onedrive\\escritorio\\Iinventary\\Eentities\\Eentities.csproj",
       "projectName": "Eentities",
-      "projectPath": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Eentities\\Eentities.csproj",
+      "projectPath": "C:\\Users\\rodri\\onedrive\\escritorio\\Iinventary\\Eentities\\Eentities.csproj",
       "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Eentities\\obj\\",
+      "outputPath": "C:\\Users\\rodri\\onedrive\\escritorio\\Iinventary\\Eentities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",
