@@ -3,19 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Iinventary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC883CBB-70CA-43DD-98DE-A45CC4E92360}|Iinventary.csproj|c:\\users\\rodri\\onedrive\\escritorio\\iinventary\\iinventary\\components\\storages\\createstoragecomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BC883CBB-70CA-43DD-98DE-A45CC4E92360}|Iinventary.csproj|solutionrelative:components\\storages\\createstoragecomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC883CBB-70CA-43DD-98DE-A45CC4E92360}|Iinventary.csproj|c:\\users\\rodri\\onedrive\\escritorio\\iinventary\\iinventary\\components\\inouts\\createinoutcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BC883CBB-70CA-43DD-98DE-A45CC4E92360}|Iinventary.csproj|solutionrelative:components\\inouts\\createinoutcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC883CBB-70CA-43DD-98DE-A45CC4E92360}|Iinventary.csproj|c:\\users\\rodri\\onedrive\\escritorio\\iinventary\\iinventary\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{BC883CBB-70CA-43DD-98DE-A45CC4E92360}|Iinventary.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A820A9A-CAB7-4B41-B27B-C821AE1D14C6}|..\\Bbusiness\\Bbusiness.csproj|c:\\users\\rodri\\onedrive\\escritorio\\iinventary\\bbusiness\\b_storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC883CBB-70CA-43DD-98DE-A45CC4E92360}|Iinventary.csproj|c:\\users\\rodri\\onedrive\\escritorio\\iinventary\\iinventary\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{BC883CBB-70CA-43DD-98DE-A45CC4E92360}|Iinventary.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,69 +14,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreateInOutComponent.razor",
-              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Iinventary\\Components\\InOuts\\CreateInOutComponent.razor",
-              "RelativeDocumentMoniker": "Components\\InOuts\\CreateInOutComponent.razor",
-              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Iinventary\\Components\\InOuts\\CreateInOutComponent.razor",
-              "RelativeToolTip": "Components\\InOuts\\CreateInOutComponent.razor",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T19:18:48.652Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CreateStorageComponent.razor",
-              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Iinventary\\Components\\Storages\\CreateStorageComponent.razor",
-              "RelativeDocumentMoniker": "Components\\Storages\\CreateStorageComponent.razor",
-              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Iinventary\\Components\\Storages\\CreateStorageComponent.razor",
-              "RelativeToolTip": "Components\\Storages\\CreateStorageComponent.razor",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T19:14:23.47Z",
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Iinventary\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Iinventary\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-23T20:02:34.395Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "B_Storage.cs",
-              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Bbusiness\\B_Storage.cs",
-              "RelativeDocumentMoniker": "..\\Bbusiness\\B_Storage.cs",
-              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Bbusiness\\B_Storage.cs",
-              "RelativeToolTip": "..\\Bbusiness\\B_Storage.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAIwEYAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T19:13:29.031Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Iinventary\\Dockerfile",
-              "RelativeDocumentMoniker": "Dockerfile",
-              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Iinventary\\Dockerfile",
-              "RelativeToolTip": "Dockerfile",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-09-23T18:26:39.082Z"
-            },
-            {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         }

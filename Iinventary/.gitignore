@@ -1,0 +1,34 @@
+﻿# .NET
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.mdb
+*.db
+*.suo
+*.user
+*.vs/
+
+# Visual Studio
+.vs/
+*.sln.docstates
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+
+# Log files
+*.log
+
+# Temporary files
+tmp/
+temp/
+
+# Publish output
+publish/
+wwwroot/
+
+# User-specific files
+*.userprefs
