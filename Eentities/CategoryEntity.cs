@@ -17,16 +17,16 @@ namespace Eentities
 
         public ICollection<ProductEntity> Products { get; set; }
 
-        //public CategoryEntity()
-        //{
-        //    CategoryId = "default";
-        //    CategoryName = "default";
-        //    Products = new List<ProductEntity>();
-        //}
+        public CategoryEntity()
+        {
+            CategoryId = "default";
+            CategoryName = "default";
+            Products = new List<ProductEntity>();
+        }
 
 
 
     }
 
-  
+
 }
