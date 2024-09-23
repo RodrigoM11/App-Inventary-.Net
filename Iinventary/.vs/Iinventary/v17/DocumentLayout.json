@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Iinventary\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC883CBB-70CA-43DD-98DE-A45CC4E92360}|Iinventary.csproj|c:\\users\\rodri\\onedrive\\escritorio\\iinventary\\iinventary\\.gitattributes||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BC883CBB-70CA-43DD-98DE-A45CC4E92360}|Iinventary.csproj|solutionrelative:.gitattributes||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC883CBB-70CA-43DD-98DE-A45CC4E92360}|Iinventary.csproj|c:\\users\\rodri\\onedrive\\escritorio\\iinventary\\iinventary\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BC883CBB-70CA-43DD-98DE-A45CC4E92360}|Iinventary.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +27,30 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitattributes",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Iinventary\\.gitattributes",
+              "RelativeDocumentMoniker": ".gitattributes",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Iinventary\\.gitattributes",
+              "RelativeToolTip": ".gitattributes",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-23T18:30:49.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Iinventary\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Iinventary\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-23T18:26:39.082Z"
             },
             {
               "$type": "Bookmark",
