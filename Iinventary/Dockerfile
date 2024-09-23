@@ -1,34 +1,26 @@
-# Etapa 1: Usar la imagen oficial del SDK de .NET 8 para compilar el proyecto
+# Use the SDK image to build the app
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /source
 
-# Copiar el archivo de solución
-COPY Iinventary.sln ./
+# Copy project files
+COPY ../Iinventary.sln ./
+COPY ../Bbusiness/Bbusiness.csproj Bbusiness/
+COPY ../DdataAccess/DdataAccess.csproj DdataAccess/
+COPY ../Eentities/Eentities.csproj Eentities/
+COPY ../Iinventary/Iinventary.csproj Iinventary/
 
-# Copiar los archivos de proyecto
-COPY Bbusiness/Bbusiness.csproj Bbusiness/
-COPY DdataAccess/DdataAccess.csproj DdataAccess/
-COPY Eentities/Eentities.csproj Eentities/
-COPY Iinventary/Iinventary.csproj Iinventary/
-
-# Restaurar dependencias
+# Restore dependencies
 RUN dotnet restore
 
-# Copiar el resto de los archivos del proyecto
-COPY . .
+# Copy the rest of your source code
+COPY .. .
 
-# Compilar la solución
-RUN dotnet build Iinventary.sln -c Release --no-restore
+# Build the app
+RUN dotnet publish Iinventary/Iinventary.csproj -c Release -o /app
 
-# Etapa 2: Usar la imagen del runtime de .NET 8 para ejecutar la aplicación
+# Use the runtime image to serve the app
 FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS runtime
 WORKDIR /app
+COPY --from=build /app .
 
-# Copiar los archivos compilados de la etapa de construcción
-COPY --from=build /source/Iinventary/bin/Release/net8.0/publish/ .  # Ajusta el path según sea necesario
-
-# Exponer el puerto 80 para acceder a la aplicación web
-EXPOSE 80
-
-# Definir el comando de inicio de la aplicación
 ENTRYPOINT ["dotnet", "Iinventary.dll"]
