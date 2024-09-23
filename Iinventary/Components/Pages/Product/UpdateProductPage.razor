@@ -1,0 +1,15 @@
+﻿@page "/product/update/{IdProduct}"
+@rendermode InteractiveServer
+
+<UpdateProductComponent IdProduct="@IdProduct"/>
+
+@code {
+    [Parameter]
+    public string? IdProduct { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        IdProduct = IdProduct;
+        await Task.CompletedTask;
+    }
+}

@@ -1,0 +1,16 @@
+﻿
+.centered-container {
+    display: flex;
+    justify-content: center; 
+  
+}
+
+    .centered-container a {
+        color: #006bb7;
+        text-decoration: none; 
+        transition: text-decoration 0.3s ease; 
+    }
+
+        .centered-container a:hover {
+            text-decoration: underline; 
+        }

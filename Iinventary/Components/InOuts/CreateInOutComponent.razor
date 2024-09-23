@@ -1,0 +1,188 @@
+﻿@using Eentities
+@using Bbusiness
+
+<div class="form-group mt-5">
+    <label class="bold-label">Bodegas:</label>
+    <select class="form-control" @onchange="OnWarehouseChanged">
+        <option>Seleccione una bodega...</option>
+        @foreach (var warehouse in warehouses)
+
+        {
+            <option value="@warehouse.WhereHouseId">@warehouse.WhereHouseName</option>
+        }
+    </select>
+</div>
+
+<EditForm Model="inout">
+    <div class="form-group">
+        <label class="bold-label">Producto:</label>
+        <InputSelect class="form-control" @bind-Value="inout.StorageId">
+            <option>Seleccione un producto...</option>
+            @foreach (var storage in storages)
+
+            {
+                <option value="@storage.StorageId">@storage.Product.ProductName</option>
+            }
+        </InputSelect>
+    </div>
+
+    <div class="form-group mb-3">
+        <label class="bold-label">Escriba la Cantidad:</label>
+        <InputNumber class="form-control" @bind-Value="inout.Quantity" />
+    </div>
+    <div class="form-group mb-3 text-center">
+        <label class="bold-label">In/Out Click...>>..</label>
+        <InputCheckbox @bind-Value="inout.IsInput" class="custom" />
+    </div>
+    <div >
+        <input type="button" value="@buttonValue" @onclick="Save" class="form-control btn btn-warning form-button" />
+    </div>
+
+
+    <div class="mt-4">
+    <NavLink href="product/list" class="form-control btn btn-primary">
+        Lista de Productos
+    </NavLink>
+    </div>
+
+</EditForm>
+<div class="text-center h4 mt-3">
+    @message
+</div>
+
+@code {
+
+
+    InputOutputEntity inout = new InputOutputEntity();
+
+    List<WhereHouseEntity> warehouses = new List<WhereHouseEntity>();
+
+    List<StorageEntity> storages = new List<StorageEntity>();
+
+    ProductEntity oProduct = new ProductEntity();
+
+    StorageEntity oStorage = new StorageEntity();
+
+    string? message;
+
+    string buttonValue => inout.IsInput ? "Registrar Entrada" : "Registrar Salida";
+
+
+
+    protected override async Task OnInitializedAsync()
+
+    {
+
+        warehouses = B_WhereHouse.WherehouseList();
+
+        await Task.CompletedTask;
+
+    }
+
+
+
+    private void OnWarehouseChanged(ChangeEventArgs e)
+
+    {
+
+        string? id = e.Value?.ToString();
+
+        storages = B_Storage.StorageListByWarehouse(id);
+
+    }
+
+
+
+    private void Save()
+
+    {
+
+        var quantity = inout.Quantity;
+
+        var oStorage = storages.LastOrDefault(s => s.StorageId == inout.StorageId);
+
+        var product = oStorage.Product;
+
+        if (quantity <= 0)
+        {
+            
+            message = "Ingrese una cantidad mayor a cero.";
+            return;  
+        }
+
+        if (!inout.IsInput)
+
+        {
+            //quantity = -1 * quantity;
+            if (IsBiggerThanZero(quantity, oStorage))
+
+            {
+
+                product.TotalQuantity = product.TotalQuantity - quantity;
+
+                oStorage.PartialQuantity = oStorage.PartialQuantity - quantity;
+
+                B_Storage.UpdateStorage(oStorage);
+
+                B_Product.UpdateProduct(product);
+
+                message = $"El Producto {oProduct.ProductName} ha sido actualizado";
+
+            }
+
+            else
+            {
+
+                message = $"No existe la cantidad suficiente en Bodega del Producto {oProduct.ProductName}";
+
+            }
+
+        }
+
+        else
+
+        {
+
+            product.TotalQuantity = product.TotalQuantity + quantity;
+
+            oStorage.PartialQuantity = oStorage.PartialQuantity + quantity;
+
+
+            B_Storage.UpdateStorage(oStorage);
+
+            B_Product.UpdateProduct(product);
+
+            message = $"El Producto {oProduct.ProductName} ha sido actualizado";
+
+        }
+
+        // await Task.Delay(3000);
+
+        
+        // ResetForm();
+
+    }
+
+    // private void ResetForm()
+    // {
+    //     inout = new InputOutputEntity(); 
+    //     message = string.Empty; 
+    //     storages.Clear(); 
+    //     StateHasChanged(); 
+    // }
+
+
+    private bool IsBiggerThanZero(int quantity, StorageEntity storage)
+
+    {
+
+        if (storage.PartialQuantity >= quantity)
+        {
+            return true;  
+        }
+
+        return false;
+    }
+
+
+}

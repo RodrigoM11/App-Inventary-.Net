@@ -1,0 +1,5 @@
+﻿* text=auto
+*.css text eol=lf
+*.razor text eol=lf
+*.cs text eol=lf
+*.csproj text eol=lf
