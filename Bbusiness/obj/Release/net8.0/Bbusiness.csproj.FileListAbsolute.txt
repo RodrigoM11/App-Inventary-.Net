@@ -24,8 +24,6 @@ C:\Users\rodri\onedrive\escritorio\Iinventary\Bbusiness\bin\Release\net8.0\Ddata
 C:\Users\rodri\onedrive\escritorio\Iinventary\Bbusiness\bin\Release\net8.0\Eentities.pdb
 C:\Users\rodri\onedrive\escritorio\Iinventary\Bbusiness\obj\Release\net8.0\Bbusiness.csproj.AssemblyReference.cache
 C:\Users\rodri\onedrive\escritorio\Iinventary\Bbusiness\obj\Release\net8.0\Bbusiness.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\rodri\onedrive\escritorio\Iinventary\Bbusiness\obj\Release\net8.0\Bbusiness.AssemblyInfoInputs.cache
-C:\Users\rodri\onedrive\escritorio\Iinventary\Bbusiness\obj\Release\net8.0\Bbusiness.AssemblyInfo.cs
 C:\Users\rodri\onedrive\escritorio\Iinventary\Bbusiness\obj\Release\net8.0\Bbusiness.csproj.CoreCompileInputs.cache
 C:\Users\rodri\onedrive\escritorio\Iinventary\Bbusiness\obj\Release\net8.0\Bbusiness.sourcelink.json
 C:\Users\rodri\onedrive\escritorio\Iinventary\Bbusiness\obj\Release\net8.0\Bbusiness.csproj.Up2Date

@@ -287,8 +287,6 @@ C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary\bin\Release\net8.0\Ddat
 C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary\bin\Release\net8.0\Eentities.pdb
 C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary\obj\Release\net8.0\Iinventary.csproj.AssemblyReference.cache
 C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary\obj\Release\net8.0\Iinventary.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary\obj\Release\net8.0\Iinventary.AssemblyInfoInputs.cache
-C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary\obj\Release\net8.0\Iinventary.AssemblyInfo.cs
 C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary\obj\Release\net8.0\Iinventary.csproj.CoreCompileInputs.cache
 C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary\obj\Release\net8.0\Iinventary.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary\obj\Release\net8.0\Iinventary.sourcelink.json
@@ -315,3 +313,12 @@ C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary\obj\Release\net8.0\refi
 C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary\obj\Release\net8.0\Iinventary.pdb
 C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary\obj\Release\net8.0\Iinventary.genruntimeconfig.cache
 C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary\obj\Release\net8.0\ref\Iinventary.dll
+C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary\bin\Release\net8.0\app\publish\web.config
+C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary\bin\Release\net8.0\app\publish\appsettings.Development.json
+C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary\bin\Release\net8.0\app\publish\appsettings.json
+C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary\bin\Release\net8.0\app\publish\Bbusiness.deps.json
+C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary\bin\Release\net8.0\app\publish\DdataAccess.deps.json
+C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary\bin\Release\net8.0\app\publish\DdataAccess.runtimeconfig.json
+C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary\bin\Release\net8.0\app\publish\Eentities.deps.json
+C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary\bin\Release\net8.0\app\publish\Iinventary.deps.json
+C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary\bin\Release\net8.0\app\publish\Iinventary.runtimeconfig.json

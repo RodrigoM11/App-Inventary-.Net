@@ -9,95 +9,95 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Iinventary
 build_property.RootNamespace = Iinventary
-build_property.ProjectDir = C:\Users\rodri\OneDrive\Escritorio\Iinventary\Iinventary\
+build_property.ProjectDir = C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\rodri\OneDrive\Escritorio\Iinventary\Iinventary
+build_property.MSBuildProjectDirectory = C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/rodri/OneDrive/Escritorio/Iinventary/Iinventary/Components/App.razor]
+[C:/Users/rodri/onedrive/escritorio/Iinventary/Iinventary/Components/App.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rodri/OneDrive/Escritorio/Iinventary/Iinventary/Components/Categories/CategoriesListComponent.razor]
+[C:/Users/rodri/onedrive/escritorio/Iinventary/Iinventary/Components/Categories/CategoriesListComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDYXRlZ29yaWVzXENhdGVnb3JpZXNMaXN0Q29tcG9uZW50LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rodri/OneDrive/Escritorio/Iinventary/Iinventary/Components/Categories/CreateCategoryComponent.razor]
+[C:/Users/rodri/onedrive/escritorio/Iinventary/Iinventary/Components/Categories/CreateCategoryComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDYXRlZ29yaWVzXENyZWF0ZUNhdGVnb3J5Q29tcG9uZW50LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rodri/OneDrive/Escritorio/Iinventary/Iinventary/Components/Pages/Error.razor]
+[C:/Users/rodri/onedrive/escritorio/Iinventary/Iinventary/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rodri/OneDrive/Escritorio/Iinventary/Iinventary/Components/Pages/Home.razor]
+[C:/Users/rodri/onedrive/escritorio/Iinventary/Iinventary/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rodri/OneDrive/Escritorio/Iinventary/Iinventary/Components/Pages/Product/CreateProductPage.razor]
+[C:/Users/rodri/onedrive/escritorio/Iinventary/Iinventary/Components/Pages/Product/CreateProductPage.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9kdWN0XENyZWF0ZVByb2R1Y3RQYWdlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rodri/OneDrive/Escritorio/Iinventary/Iinventary/Components/Pages/Product/InOutProductPage.razor]
+[C:/Users/rodri/onedrive/escritorio/Iinventary/Iinventary/Components/Pages/Product/InOutProductPage.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9kdWN0XEluT3V0UHJvZHVjdFBhZ2UucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rodri/OneDrive/Escritorio/Iinventary/Iinventary/Components/Pages/Product/ListProductPage.razor]
+[C:/Users/rodri/onedrive/escritorio/Iinventary/Iinventary/Components/Pages/Product/ListProductPage.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9kdWN0XExpc3RQcm9kdWN0UGFnZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rodri/OneDrive/Escritorio/Iinventary/Iinventary/Components/Pages/Product/UpdateProductPage.razor]
+[C:/Users/rodri/onedrive/escritorio/Iinventary/Iinventary/Components/Pages/Product/UpdateProductPage.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9kdWN0XFVwZGF0ZVByb2R1Y3RQYWdlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rodri/OneDrive/Escritorio/Iinventary/Iinventary/Components/Pages/Storages/CreateStoragePage.razor]
+[C:/Users/rodri/onedrive/escritorio/Iinventary/Iinventary/Components/Pages/Storages/CreateStoragePage.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTdG9yYWdlc1xDcmVhdGVTdG9yYWdlUGFnZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rodri/OneDrive/Escritorio/Iinventary/Iinventary/Components/Routes.razor]
+[C:/Users/rodri/onedrive/escritorio/Iinventary/Iinventary/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rodri/OneDrive/Escritorio/Iinventary/Iinventary/Components/WhereHouses/ListWhereHousesComponent.razor]
+[C:/Users/rodri/onedrive/escritorio/Iinventary/Iinventary/Components/WhereHouses/ListWhereHousesComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xXaGVyZUhvdXNlc1xMaXN0V2hlcmVIb3VzZXNDb21wb25lbnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rodri/OneDrive/Escritorio/Iinventary/Iinventary/Components/_Imports.razor]
+[C:/Users/rodri/onedrive/escritorio/Iinventary/Iinventary/Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rodri/OneDrive/Escritorio/Iinventary/Iinventary/Components/Home/HomeComponent.razor]
+[C:/Users/rodri/onedrive/escritorio/Iinventary/Iinventary/Components/Home/HomeComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xIb21lXEhvbWVDb21wb25lbnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-4u1y50o74y
 
-[C:/Users/rodri/OneDrive/Escritorio/Iinventary/Iinventary/Components/InOuts/CreateInOutComponent.razor]
+[C:/Users/rodri/onedrive/escritorio/Iinventary/Iinventary/Components/InOuts/CreateInOutComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xJbk91dHNcQ3JlYXRlSW5PdXRDb21wb25lbnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-duogz2l6r6
 
-[C:/Users/rodri/OneDrive/Escritorio/Iinventary/Iinventary/Components/Layout/MainLayout.razor]
+[C:/Users/rodri/onedrive/escritorio/Iinventary/Iinventary/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-b5ssaqma9g
 
-[C:/Users/rodri/OneDrive/Escritorio/Iinventary/Iinventary/Components/Layout/NavMenu.razor]
+[C:/Users/rodri/onedrive/escritorio/Iinventary/Iinventary/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-oxkvd4acry
 
-[C:/Users/rodri/OneDrive/Escritorio/Iinventary/Iinventary/Components/Product/CreateProductComponent.razor]
+[C:/Users/rodri/onedrive/escritorio/Iinventary/Iinventary/Components/Product/CreateProductComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQcm9kdWN0XENyZWF0ZVByb2R1Y3RDb21wb25lbnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-0bmyim0o62
 
-[C:/Users/rodri/OneDrive/Escritorio/Iinventary/Iinventary/Components/Product/ListProductComponent.razor]
+[C:/Users/rodri/onedrive/escritorio/Iinventary/Iinventary/Components/Product/ListProductComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQcm9kdWN0XExpc3RQcm9kdWN0Q29tcG9uZW50LnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-jk5l25yr29
 
-[C:/Users/rodri/OneDrive/Escritorio/Iinventary/Iinventary/Components/Product/UpdateProductComponent.razor]
+[C:/Users/rodri/onedrive/escritorio/Iinventary/Iinventary/Components/Product/UpdateProductComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQcm9kdWN0XFVwZGF0ZVByb2R1Y3RDb21wb25lbnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-clq2uhs82o
 
-[C:/Users/rodri/OneDrive/Escritorio/Iinventary/Iinventary/Components/Storages/CreateStorageComponent.razor]
+[C:/Users/rodri/onedrive/escritorio/Iinventary/Iinventary/Components/Storages/CreateStorageComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTdG9yYWdlc1xDcmVhdGVTdG9yYWdlQ29tcG9uZW50LnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-nr38y04ql2

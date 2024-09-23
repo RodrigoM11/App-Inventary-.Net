@@ -5060,11 +5060,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\DdataAccess\\DdataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\rodri\\onedrive\\escritorio\\Iinventary\\DdataAccess\\DdataAccess.csproj",
       "projectName": "DdataAccess",
-      "projectPath": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\DdataAccess\\DdataAccess.csproj",
+      "projectPath": "C:\\Users\\rodri\\onedrive\\escritorio\\Iinventary\\DdataAccess\\DdataAccess.csproj",
       "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\DdataAccess\\obj\\",
+      "outputPath": "C:\\Users\\rodri\\onedrive\\escritorio\\Iinventary\\DdataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5082,8 +5082,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Eentities\\Eentities.csproj": {
-              "projectPath": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Eentities\\Eentities.csproj"
+            "C:\\Users\\rodri\\onedrive\\escritorio\\Iinventary\\Eentities\\Eentities.csproj": {
+              "projectPath": "C:\\Users\\rodri\\onedrive\\escritorio\\Iinventary\\Eentities\\Eentities.csproj"
             }
           }
         }

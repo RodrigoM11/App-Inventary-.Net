@@ -23,8 +23,6 @@ C:\Users\rodri\onedrive\escritorio\Iinventary\DdataAccess\bin\Release\net8.0\Een
 C:\Users\rodri\onedrive\escritorio\Iinventary\DdataAccess\bin\Release\net8.0\Eentities.pdb
 C:\Users\rodri\onedrive\escritorio\Iinventary\DdataAccess\obj\Release\net8.0\DdataAccess.csproj.AssemblyReference.cache
 C:\Users\rodri\onedrive\escritorio\Iinventary\DdataAccess\obj\Release\net8.0\DdataAccess.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\rodri\onedrive\escritorio\Iinventary\DdataAccess\obj\Release\net8.0\DdataAccess.AssemblyInfoInputs.cache
-C:\Users\rodri\onedrive\escritorio\Iinventary\DdataAccess\obj\Release\net8.0\DdataAccess.AssemblyInfo.cs
 C:\Users\rodri\onedrive\escritorio\Iinventary\DdataAccess\obj\Release\net8.0\DdataAccess.csproj.CoreCompileInputs.cache
 C:\Users\rodri\onedrive\escritorio\Iinventary\DdataAccess\obj\Release\net8.0\DdataAccess.sourcelink.json
 C:\Users\rodri\onedrive\escritorio\Iinventary\DdataAccess\obj\Release\net8.0\DdataAcc.18D1FF39.Up2Date

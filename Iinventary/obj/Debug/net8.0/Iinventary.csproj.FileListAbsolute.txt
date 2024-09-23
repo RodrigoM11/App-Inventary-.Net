@@ -296,8 +296,6 @@ C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary\bin\Debug\net8.0\DdataA
 C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary\bin\Debug\net8.0\Eentities.pdb
 C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary\obj\Debug\net8.0\Iinventary.csproj.AssemblyReference.cache
 C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary\obj\Debug\net8.0\Iinventary.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary\obj\Debug\net8.0\Iinventary.AssemblyInfoInputs.cache
-C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary\obj\Debug\net8.0\Iinventary.AssemblyInfo.cs
 C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary\obj\Debug\net8.0\Iinventary.csproj.CoreCompileInputs.cache
 C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary\obj\Debug\net8.0\Iinventary.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary\obj\Debug\net8.0\Iinventary.sourcelink.json

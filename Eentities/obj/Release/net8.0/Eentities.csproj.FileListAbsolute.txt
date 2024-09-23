@@ -15,8 +15,6 @@ C:\Users\rodri\onedrive\escritorio\Iinventary\Eentities\bin\Release\net8.0\Eenti
 C:\Users\rodri\onedrive\escritorio\Iinventary\Eentities\bin\Release\net8.0\Eentities.pdb
 C:\Users\rodri\onedrive\escritorio\Iinventary\Eentities\obj\Release\net8.0\Eentities.csproj.AssemblyReference.cache
 C:\Users\rodri\onedrive\escritorio\Iinventary\Eentities\obj\Release\net8.0\Eentities.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\rodri\onedrive\escritorio\Iinventary\Eentities\obj\Release\net8.0\Eentities.AssemblyInfoInputs.cache
-C:\Users\rodri\onedrive\escritorio\Iinventary\Eentities\obj\Release\net8.0\Eentities.AssemblyInfo.cs
 C:\Users\rodri\onedrive\escritorio\Iinventary\Eentities\obj\Release\net8.0\Eentities.csproj.CoreCompileInputs.cache
 C:\Users\rodri\onedrive\escritorio\Iinventary\Eentities\obj\Release\net8.0\Eentities.sourcelink.json
 C:\Users\rodri\onedrive\escritorio\Iinventary\Eentities\obj\Release\net8.0\Eentities.dll
