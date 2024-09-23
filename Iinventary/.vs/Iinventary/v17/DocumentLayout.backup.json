@@ -3,12 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Iinventary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC883CBB-70CA-43DD-98DE-A45CC4E92360}|Iinventary.csproj|c:\\users\\rodri\\onedrive\\escritorio\\iinventary\\iinventary\\.gitattributes||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{BC883CBB-70CA-43DD-98DE-A45CC4E92360}|Iinventary.csproj|solutionrelative:.gitattributes||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{BC883CBB-70CA-43DD-98DE-A45CC4E92360}|Iinventary.csproj|c:\\users\\rodri\\onedrive\\escritorio\\iinventary\\iinventary\\components\\storages\\createstoragecomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC883CBB-70CA-43DD-98DE-A45CC4E92360}|Iinventary.csproj|solutionrelative:components\\storages\\createstoragecomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC883CBB-70CA-43DD-98DE-A45CC4E92360}|Iinventary.csproj|c:\\users\\rodri\\onedrive\\escritorio\\iinventary\\iinventary\\components\\inouts\\createinoutcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC883CBB-70CA-43DD-98DE-A45CC4E92360}|Iinventary.csproj|solutionrelative:components\\inouts\\createinoutcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC883CBB-70CA-43DD-98DE-A45CC4E92360}|Iinventary.csproj|c:\\users\\rodri\\onedrive\\escritorio\\iinventary\\iinventary\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{BC883CBB-70CA-43DD-98DE-A45CC4E92360}|Iinventary.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A820A9A-CAB7-4B41-B27B-C821AE1D14C6}|..\\Bbusiness\\Bbusiness.csproj|c:\\users\\rodri\\onedrive\\escritorio\\iinventary\\bbusiness\\b_storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +25,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,25 +37,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": ".gitattributes",
-              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Iinventary\\.gitattributes",
-              "RelativeDocumentMoniker": ".gitattributes",
-              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Iinventary\\.gitattributes",
-              "RelativeToolTip": ".gitattributes",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-09-23T18:30:49.458Z"
+              "DocumentIndex": 1,
+              "Title": "CreateInOutComponent.razor",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Iinventary\\Components\\InOuts\\CreateInOutComponent.razor",
+              "RelativeDocumentMoniker": "Components\\InOuts\\CreateInOutComponent.razor",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Iinventary\\Components\\InOuts\\CreateInOutComponent.razor",
+              "RelativeToolTip": "Components\\InOuts\\CreateInOutComponent.razor",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T19:18:48.652Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "CreateStorageComponent.razor",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Iinventary\\Components\\Storages\\CreateStorageComponent.razor",
+              "RelativeDocumentMoniker": "Components\\Storages\\CreateStorageComponent.razor",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Iinventary\\Components\\Storages\\CreateStorageComponent.razor",
+              "RelativeToolTip": "Components\\Storages\\CreateStorageComponent.razor",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T19:14:23.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "B_Storage.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Bbusiness\\B_Storage.cs",
+              "RelativeDocumentMoniker": "..\\Bbusiness\\B_Storage.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Bbusiness\\B_Storage.cs",
+              "RelativeToolTip": "..\\Bbusiness\\B_Storage.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwEYAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T19:13:29.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Iinventary\\Dockerfile",
               "RelativeDocumentMoniker": "Dockerfile",
               "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Iinventary\\Dockerfile",
               "RelativeToolTip": "Dockerfile",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-09-23T18:26:39.082Z"
             },

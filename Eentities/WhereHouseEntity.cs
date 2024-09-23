@@ -21,13 +21,13 @@ namespace Eentities
         public string WhereHouseAddress { get; set; }
         public ICollection<StorageEntity> Storages { get; set; }
 
-        public WhereHouseEntity()
-        {
-            WhereHouseId = "default";
-            WhereHouseName = "default";
-            WhereHouseAddress = "default";
-            Storages = new List<StorageEntity>();
-        }
+        //public WhereHouseEntity()
+        //{
+        //    WhereHouseId = "default";
+        //    WhereHouseName = "default";
+        //    WhereHouseAddress = "default";
+        //    Storages = new List<StorageEntity>();
+        //}
 
     }
 
