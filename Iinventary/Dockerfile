@@ -6,10 +6,10 @@ WORKDIR /src
 COPY ../Bbusiness/Bbusiness.csproj ../Bbusiness/
 COPY ../DdataAccess/DdataAccess.csproj ../DdataAccess/
 COPY ../Eentities/Eentities.csproj ../Eentities/
-COPY Iinventary.csproj .
+COPY ../Iinventary/Iinventary.csproj .
 
 # Restaurar dependencias para cada proyecto
-RUN dotnet restore Iinventary.csproj
+RUN dotnet restore ../Iinventary.csproj
 RUN dotnet restore ../Bbusiness/Bbusiness.csproj
 RUN dotnet restore ../DdataAccess/DdataAccess.csproj
 RUN dotnet restore ../Eentities/Eentities.csproj
