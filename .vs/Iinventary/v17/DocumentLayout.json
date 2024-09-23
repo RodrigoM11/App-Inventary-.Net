@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Iinventary\\Components\\Product\\CreateProductComponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Iinventary\\Components\\Product\\CreateProductComponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Iinventary\\Components\\WhereHouses\\ListWhereHousesComponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Iinventary\\Components\\WhereHouses\\ListWhereHousesComponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Iinventary\\Components\\Storages\\CreateStorageComponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Iinventary\\Components\\Storages\\CreateStorageComponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Iinventary\\Components\\Product\\UpdateProductComponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Iinventary\\Components\\Product\\UpdateProductComponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Iinventary\\Components\\InOuts\\CreateInOutComponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Iinventary\\Components\\InOuts\\CreateInOutComponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,41 +26,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CreateProductComponent.razor",
-              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Iinventary\\Components\\Product\\CreateProductComponent.razor",
-              "RelativeDocumentMoniker": "Iinventary\\Components\\Product\\CreateProductComponent.razor",
-              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Iinventary\\Components\\Product\\CreateProductComponent.razor",
-              "RelativeToolTip": "Iinventary\\Components\\Product\\CreateProductComponent.razor",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T15:44:41.276Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CreateStorageComponent.razor",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Iinventary\\Components\\Storages\\CreateStorageComponent.razor",
+              "RelativeDocumentMoniker": "Iinventary\\Components\\Storages\\CreateStorageComponent.razor",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Iinventary\\Components\\Storages\\CreateStorageComponent.razor",
+              "RelativeToolTip": "Iinventary\\Components\\Storages\\CreateStorageComponent.razor",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T17:58:36.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateProductComponent.razor",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Iinventary\\Components\\Product\\UpdateProductComponent.razor",
+              "RelativeDocumentMoniker": "Iinventary\\Components\\Product\\UpdateProductComponent.razor",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Iinventary\\Components\\Product\\UpdateProductComponent.razor",
+              "RelativeToolTip": "Iinventary\\Components\\Product\\UpdateProductComponent.razor",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T17:56:51.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateInOutComponent.razor",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Iinventary\\Components\\InOuts\\CreateInOutComponent.razor",
+              "RelativeDocumentMoniker": "Iinventary\\Components\\InOuts\\CreateInOutComponent.razor",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Iinventary\\Components\\InOuts\\CreateInOutComponent.razor",
+              "RelativeToolTip": "Iinventary\\Components\\InOuts\\CreateInOutComponent.razor",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T16:13:08.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "ListWhereHousesComponent.razor",
               "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Iinventary\\Components\\WhereHouses\\ListWhereHousesComponent.razor",
               "RelativeDocumentMoniker": "Iinventary\\Components\\WhereHouses\\ListWhereHousesComponent.razor",
               "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Iinventary\\Iinventary\\Components\\WhereHouses\\ListWhereHousesComponent.razor",
               "RelativeToolTip": "Iinventary\\Components\\WhereHouses\\ListWhereHousesComponent.razor",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAC8AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T15:41:58.134Z",
+              "WhenOpened": "2024-09-23T16:12:15.315Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

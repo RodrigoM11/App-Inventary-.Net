@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JJhZn2G0dVZiTmYyS0tnAYT4vFsWcSr9k2+XRPekUh0=",
+  "Hash": "NT1x1OnpzjjfwPSYBM0Q08UpZZ9YmROojVCALxHhFks=",
   "Source": "Iinventary",
   "BasePath": "_content/Iinventary",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Iinventary\\wwwroot",
       "Source": "Iinventary",
-      "ContentRoot": "C:\\Users\\rodri\\source\\repos\\Iinventary\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rodri\\onedrive\\escritorio\\Iinventary\\Iinventary\\wwwroot\\",
       "BasePath": "_content/Iinventary",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\rodri\\source\\repos\\Iinventary\\obj\\Release\\net8.0\\scopedcss\\bundle\\Iinventary.styles.css",
+      "Identity": "C:\\Users\\rodri\\onedrive\\escritorio\\Iinventary\\Iinventary\\obj\\Release\\net8.0\\scopedcss\\bundle\\Iinventary.styles.css",
       "SourceId": "Iinventary",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\rodri\\source\\repos\\Iinventary\\obj\\Release\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\rodri\\onedrive\\escritorio\\Iinventary\\Iinventary\\obj\\Release\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Iinventary",
       "RelativePath": "Iinventary.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\rodri\\source\\repos\\Iinventary\\obj\\Release\\net8.0\\scopedcss\\bundle\\Iinventary.styles.css"
+      "OriginalItemSpec": "C:\\Users\\rodri\\onedrive\\escritorio\\Iinventary\\Iinventary\\obj\\Release\\net8.0\\scopedcss\\bundle\\Iinventary.styles.css"
     },
     {
-      "Identity": "C:\\Users\\rodri\\source\\repos\\Iinventary\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\Iinventary.bundle.scp.css",
+      "Identity": "C:\\Users\\rodri\\onedrive\\escritorio\\Iinventary\\Iinventary\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\Iinventary.bundle.scp.css",
       "SourceId": "Iinventary",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\rodri\\source\\repos\\Iinventary\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\rodri\\onedrive\\escritorio\\Iinventary\\Iinventary\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Iinventary",
       "RelativePath": "Iinventary.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\rodri\\source\\repos\\Iinventary\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\Iinventary.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\rodri\\onedrive\\escritorio\\Iinventary\\Iinventary\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\Iinventary.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\rodri\\source\\repos\\Iinventary\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\rodri\\onedrive\\escritorio\\Iinventary\\Iinventary\\wwwroot\\app.css",
       "SourceId": "Iinventary",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\rodri\\source\\repos\\Iinventary\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rodri\\onedrive\\escritorio\\Iinventary\\Iinventary\\wwwroot\\",
       "BasePath": "_content/Iinventary",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\rodri\\source\\repos\\Iinventary\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\rodri\\onedrive\\escritorio\\Iinventary\\Iinventary\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "Iinventary",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\rodri\\source\\repos\\Iinventary\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rodri\\onedrive\\escritorio\\Iinventary\\Iinventary\\wwwroot\\",
       "BasePath": "_content/Iinventary",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\rodri\\source\\repos\\Iinventary\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\rodri\\onedrive\\escritorio\\Iinventary\\Iinventary\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "Iinventary",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\rodri\\source\\repos\\Iinventary\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rodri\\onedrive\\escritorio\\Iinventary\\Iinventary\\wwwroot\\",
       "BasePath": "_content/Iinventary",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\rodri\\source\\repos\\Iinventary\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\rodri\\onedrive\\escritorio\\Iinventary\\Iinventary\\wwwroot\\favicon.png",
       "SourceId": "Iinventary",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\rodri\\source\\repos\\Iinventary\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rodri\\onedrive\\escritorio\\Iinventary\\Iinventary\\wwwroot\\",
       "BasePath": "_content/Iinventary",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
