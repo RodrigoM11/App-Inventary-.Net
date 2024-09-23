@@ -156,8 +156,17 @@ C:\Users\rodri\source\repos\Iinventary\bin\Debug\net8.0\ru\Microsoft.CodeAnalysi
 C:\Users\rodri\source\repos\Iinventary\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\rodri\source\repos\Iinventary\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\rodri\source\repos\Iinventary\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary\bin\Debug\net8.0\app\publish\web.config
 C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary\bin\Debug\net8.0\appsettings.json
+C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary\bin\Debug\net8.0\app\publish\appsettings.Development.json
+C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary\bin\Debug\net8.0\app\publish\appsettings.json
+C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary\bin\Debug\net8.0\app\publish\Bbusiness.deps.json
+C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary\bin\Debug\net8.0\app\publish\DdataAccess.deps.json
+C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary\bin\Debug\net8.0\app\publish\DdataAccess.runtimeconfig.json
+C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary\bin\Debug\net8.0\app\publish\Eentities.deps.json
+C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary\bin\Debug\net8.0\app\publish\Iinventary.deps.json
+C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary\bin\Debug\net8.0\app\publish\Iinventary.runtimeconfig.json
 C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary\bin\Debug\net8.0\Iinventary.staticwebassets.runtime.json
 C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary\bin\Debug\net8.0\Iinventary.exe
 C:\Users\rodri\onedrive\escritorio\Iinventary\Iinventary\bin\Debug\net8.0\Iinventary.deps.json
