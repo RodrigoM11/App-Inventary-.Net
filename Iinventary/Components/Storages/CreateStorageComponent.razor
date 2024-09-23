@@ -62,6 +62,12 @@
         try
         {
 
+             if (oStorage == null)
+        {
+            message = "La información del almacenamiento es nula.";
+            return;
+        }
+
             if (!string.IsNullOrEmpty(oStorage.WhereHouseId) && !string.IsNullOrEmpty(oStorage.ProductId))
             {
                 var id = $"{oStorage.WhereHouseId}-{oStorage.ProductId}";

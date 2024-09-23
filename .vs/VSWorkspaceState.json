@@ -2,8 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\Eentities",
-    "\\Iinventary"
+    "\\Iinventary",
+    "\\Iinventary\\Components",
+    "\\Iinventary\\Components\\Product",
+    "\\Iinventary\\Components\\Storages",
+    "\\Iinventary\\Components\\WhereHouses"
   ],
-  "SelectedNode": "\\Iinventary\\Dockerfile",
+  "SelectedNode": "\\Iinventary\\Components\\Storages\\CreateStorageComponent.razor",
   "PreviewInSolutionExplorer": false
 }
