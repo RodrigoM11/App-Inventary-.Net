@@ -15,17 +15,17 @@ COPY Iinventary/Iinventary.csproj Iinventary/
 RUN dotnet restore
 
 # Copiar el resto de los archivos del proyecto
-COPY . ./
+COPY . .
 
-# Compilar el proyecto en modo Release
-RUN dotnet publish -c Release -o /app
+# Compilar la solución
+RUN dotnet build Iinventary.sln -c Release --no-restore
 
 # Etapa 2: Usar la imagen del runtime de .NET 8 para ejecutar la aplicación
 FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS runtime
 WORKDIR /app
 
 # Copiar los archivos compilados de la etapa de construcción
-COPY --from=build /app .
+COPY --from=build /source/Iinventary/bin/Release/net8.0/publish/ .  # Ajusta el path según sea necesario
 
 # Exponer el puerto 80 para acceder a la aplicación web
 EXPOSE 80
