@@ -6,10 +6,10 @@ WORKDIR /source
 COPY Iinventary.sln ./
 
 # Copia los archivos de proyecto de las bibliotecas
-COPY Bbusiness/Bbusiness.csproj Business/
-COPY DdataAccess/DdataAccess.csproj DataAccess/
-COPY Eentities/Eentities.csproj Entities/
-COPY Iinventary/Iinventary.csproj Inventary/
+COPY Bbusiness/Bbusiness.csproj Bbusiness/
+COPY DdataAccess/DdataAccess.csproj DdataAccess/
+COPY Eentities/Eentities.csproj Eentities/
+COPY Iinventary/Iinventary.csproj Iinventary/
 
 # Restaura las dependencias
 RUN dotnet restore
