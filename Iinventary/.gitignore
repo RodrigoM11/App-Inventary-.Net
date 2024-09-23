@@ -8,7 +8,7 @@ obj/
 *.db
 *.suo
 *.user
-*.vs/
+.vs/
 
 # Visual Studio
 .vs/
