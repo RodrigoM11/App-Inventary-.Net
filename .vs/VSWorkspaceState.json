@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Bbusiness",
+    "\\DdataAccess",
+    "\\Iinventary",
+    "\\Iinventary\\Components",
+    "\\Iinventary\\Components\\Categories",
+    "\\Iinventary\\Components\\Home",
+    "\\Iinventary\\Components\\InOuts",
+    "\\Iinventary\\Components\\Storages",
+    "\\Iinventary\\Components\\WhereHouses"
+  ],
+  "SelectedNode": "\\Iinventary\\Iinventary.sln",
+  "PreviewInSolutionExplorer": false
+}
