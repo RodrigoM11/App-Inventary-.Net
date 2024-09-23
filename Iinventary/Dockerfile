@@ -9,7 +9,7 @@ COPY ../Eentities/Eentities.csproj ../Eentities/
 COPY Iinventary.csproj .
 
 # Restaurar dependencias para cada proyecto
-RUN dotnet restore ./Iinventary.csproj
+RUN dotnet restore Iinventary.csproj
 RUN dotnet restore ../Bbusiness/Bbusiness.csproj
 RUN dotnet restore ../DdataAccess/DdataAccess.csproj
 RUN dotnet restore ../Eentities/Eentities.csproj
