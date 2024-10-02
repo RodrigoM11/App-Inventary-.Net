@@ -3,14 +3,9 @@
     "",
     "\\Bbusiness",
     "\\DdataAccess",
-    "\\Iinventary",
-    "\\Iinventary\\Components",
-    "\\Iinventary\\Components\\Categories",
-    "\\Iinventary\\Components\\Home",
-    "\\Iinventary\\Components\\InOuts",
-    "\\Iinventary\\Components\\Storages",
-    "\\Iinventary\\Components\\WhereHouses"
+    "\\Eentities",
+    "\\Iinventary"
   ],
-  "SelectedNode": "\\Iinventary\\Iinventary.sln",
+  "SelectedNode": "\\Iinventary\\Iinventary.csproj",
   "PreviewInSolutionExplorer": false
 }

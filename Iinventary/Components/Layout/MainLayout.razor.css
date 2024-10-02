@@ -1,16 +1,20 @@
-    .page {
-        position: relative;
-        display: flex;
-        flex-direction: column;
-    }
+.page {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    overflow: hidden;
+}
 
-    main {
-        flex: 1;
-    }
+main {
+    flex: 1;
+/*    overflow-y: auto;*/
+}
 
-    .sidebar {
-        background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
-    }
+.sidebar {
+    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+    
+}
 
     .top-row {
         background-color: #3a0647;
@@ -66,6 +70,7 @@
         background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='white' class='bi bi-list-nested' viewBox='0 0 16 16'%3E%3Cpath fill-rule='evenodd' d='M4.5 11.5A.5.5 0 0 1 5 11h10a.5.5 0 0 1 0 1H5a.5.5 0 0 1-.5-.5zm-2-4A.5.5 0 0 1 3 7h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm-2-4A.5.5 0 0 1 1 3h10a.5.5 0 0 1 0 1H1a.5.5 0 0 1-.5-.5z'/%3E%3C/svg%3E");
     }
 
+
 @media (max-width: 640.98px) {
     .top-row {
         justify-content: space-between;
@@ -74,9 +79,20 @@
     .top-row ::deep a, .top-row ::deep .btn-link {
         margin-left: 0;
     }
+
+    .content-wrapper {
+       
+     display: none;
+       
+    }
+   
+
+
 }
 
 @media (min-width: 641px) {
+
+    
     .page {
         flex-direction: row;
     }
@@ -105,6 +121,9 @@
         padding-right: 1.5rem !important;
     }
 }
+
+
+
 
 #blazor-error-ui {
     background: lightyellow;

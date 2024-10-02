@@ -18,7 +18,7 @@
 </select>
 <hr />
 
-
+<div class="table-responsive">
 <table class="table table-hover table-bordered">
     <thead>
         <tr>
@@ -38,11 +38,15 @@
                 <td>@product.ProductName</td>
                 <td>@product.CategoryId</td>
                 <td>@product.TotalQuantity</td>
-                <td><a href="product/update/@product.ProductId" style="color:#006bb7">Editar</a></td>
+                <td>
+                    <a href="product/update/@product.ProductId" style="color:#006bb7" class="btn btn-link">Editar</a>
+                </td>
             </tr>
         }
     </tbody>
 </table>
+</div>
+
 
 @message
 

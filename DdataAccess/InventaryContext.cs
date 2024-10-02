@@ -39,20 +39,20 @@ namespace DdataAccess
             {
 
 
-                var server = Environment.GetEnvironmentVariable("DB_SERVER");
-                var port = Environment.GetEnvironmentVariable("DB_PORT");
-                var database = Environment.GetEnvironmentVariable("DB_DATABASE");
-                var user = Environment.GetEnvironmentVariable("DB_USER");
-                var password = Environment.GetEnvironmentVariable("DB_PASSWORD");
+                var DB_SERVER = "junction.proxy.rlwy.net";
+                var DB_PORT = "38582";
+                var DB_DATABASE = "railway";
+                var DB_USER = "root";
+                var DB_PASSWORD = "qTDaklKYQLEaNQIkUsoGlkSMAiDRzIIT";
 
-                if (string.IsNullOrEmpty(server) || string.IsNullOrEmpty(database) || string.IsNullOrEmpty(user) || string.IsNullOrEmpty(password))
+                if (string.IsNullOrEmpty(DB_SERVER) || string.IsNullOrEmpty(DB_DATABASE) || string.IsNullOrEmpty(DB_USER) || string.IsNullOrEmpty(DB_PASSWORD))
                 {
                     throw new InvalidOperationException("Faltan variables de Entorno para la configuración de la BD.");
                 }
 
 
                 options.UseMySql(
-                    $"Server={server};Port={port};Database={database};User={user};Password={password};",
+                    $"Server={DB_SERVER};Port={DB_PORT};Database={DB_DATABASE};User={DB_USER};Password={DB_PASSWORD};",
                     new MySqlServerVersion(new Version(8, 0, 27)),
                     mySqlOptions => mySqlOptions.EnableRetryOnFailure(
                         maxRetryCount: 5,

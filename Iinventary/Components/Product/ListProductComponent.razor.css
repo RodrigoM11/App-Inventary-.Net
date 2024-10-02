@@ -11,6 +11,27 @@
         transition: text-decoration 0.3s ease; 
     }
 
-        .centered-container a:hover {
-            text-decoration: underline; 
-        }
+ .centered-container a:hover {
+       text-decoration: underline; 
+ }
+
+
+.table-responsive {
+    max-height: 400px;
+    overflow-x: auto;
+    overflow-y: auto;
+  
+}
+
+.table-responsive::-webkit-scrollbar {
+        display: none; 
+}
+
+@media (min-width: 641px) {
+
+    .table-responsive {
+        overflow-x: auto; 
+
+    }
+
+}
